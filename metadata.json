@@ -1,0 +1,6 @@
+{
+  "name": "ทรัพย์ดีมีบอก",
+  "description": "Real estate listing platform for property agents with line integration - frontend only",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
